@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cardio Care</title>
+    <link rel="icon" href="images/icon-favicon.jpg" />
+    <!--
+    Keep navbar in view at all times
+    -->
+    <link rel="stylesheet" href="main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <header class="navbar">
+      <div class="container nav-container">
+        <a href="#" class="logo">
+          <img
+            src="images/icon-page.jpg"
+            alt="Cardio Care Logo"
+            class="logo-icon"
+          />
+          <span class="logo-text">Cardio Care</span>
+        </a>
+
+        <div class="hamburger">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+
+        <div class="nav-links">
+          <a href="index.html">Home</a>
+          <a href="condition.html">The Condition</a>
+          <a href="strategies.html">Strategies</a>
+          <a href="#">FAQ</a>
+        </div>
+      </div>
+    </header>
+
+
+
+        <script src="main.js"></script>
+  </body>
+
+  <footer class="site-footer">
+    <div class="container footer-container">
+      <dl>
+        <dt>
+          <a href="https://www.heart.org/en/">https://www.heart.org/en/</a> -
+          American Heart Association
+        </dt>
+        <dt>
+          <a
+            href="https://www.bhf.org.uk/informationsupport/treatments/medicine"
+            >https://www.bhf.org.uk/informationsupport/treatments/medicine</a
+          >
+          - Medicines for heart conditions
+        </dt>
+        <dt>
+          <a href="https://www.ahajournals.org/guidelines/high-blood-pressure"
+            >https://www.ahajournals.org/guidelines/high-blood-pressure</a
+          >
+          - High blood Pressure Guideline Journal Hub
+        </dt>
+        <dt>
+          <a
+            href="https://www.heartfoundation.org.au/for-professionals/hypertension"
+            >https://www.heartfoundation.org.au/for-professionals/hypertension</a
+          >
+          - Clinical information for diagnosis and management of hypertension
+        </dt>
+        <dt>
+          <a
+            href="https://www.nhlbi.nih.gov/education/high-blood-pressure/videos"
+            >https://www.nhlbi.nih.gov/education/high-blood-pressure/videos</a
+          >
+          - High blood pressure videos
+        </dt>
+        <dt>
+          <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6770596/"
+            >https://pmc.ncbi.nlm.nih.gov/articles/PMC6770596/</a
+          >
+          - Sodium Intake and Hypertension
+        </dt>
+      </dl>
+      <p>&copy; Copyright - 2026 Cardio Care. All rights reserved.</p>
+    </div>
+  </footer>
+</html>
